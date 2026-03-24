@@ -5,7 +5,8 @@
 
 ## 20260324
 1、添加了passwall
-2、config是immortalwrt25.12使用的
+
+2、config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
 
 
