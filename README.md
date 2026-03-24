@@ -10,9 +10,13 @@
 ## 默认
 
 默认IP：192.168.10.1
+
 用户名：root
+
 密码：password
+
 WiFi名称：ImmortalWrt
+
 WiFi密码：123456789
 
 Change Repo to [immortalwrt-mt798x-24.10](https://github.com/padavanonly/immortalwrt-mt798x-6.6)
